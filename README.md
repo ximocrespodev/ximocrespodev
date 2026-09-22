@@ -27,3 +27,7 @@
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+![50 first dates](https://i.makeagif.com/media/10-27-2015/b7c5GU.gif)
