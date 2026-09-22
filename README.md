@@ -11,7 +11,7 @@
 🌱 Buscando prácticas (FCT) donde seguir creciendo como desarrollador
 
 📫 Puedes contactarme en:
-- LinkedIn: [ximo-crespo](https://www.linkedin.com/in/ximo-crespo)
+- LinkedIn: [ximo-crespo](https://www.linkedin.com/in/ximo-crespo-)
 - Email: ximcreolt@alu.edu.gva.es
 
 ---
