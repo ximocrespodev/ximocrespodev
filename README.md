@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ximo 👋
 
-🎓 Estudiante de primer curso de **Desarrollo de Aplicaciones Web (DAW)** en el CIPFP Cheste
+🎓 Estudiante de primer curso de **Desarrollo de Aplicaciones Web (DAW)** en el CIPFP Cheste y **Desarrollador Web Junior**.
 
 💻 Vengo de una base técnica en Sistemas Microinformáticos y Redes (Matrícula de Honor)
 
